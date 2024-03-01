@@ -4,5 +4,6 @@
 | 内容セル  | 内容セル  |
 | 内容セル  | 内容セル  |
 ```
-![](testgit/Assets/VALORANT.png)
+![CICD]([testgit/Assets/VALORANT.png](https://github.com/shibatosora/test/blob/main/testgit/Assets/VALORANT.png)https://github.com/shibatosora/test/blob/main/testgit/Assets/VALORANT.png)
+
 ```
